@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d6e2d940aaf0457fcf0127a1",
+  "owner": "jcpaept",
+  "repo": "page-78c206ae65eb090c1809d293",
+  "title": "V2云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "78c206ae65eb090c1809d293",
+      "a": "V2云",
+      "b": "2027最新官网",
+      "entity": "V2云",
+      "brand": "V2云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5ba60fc0bbe3e8a471b219a27eac62e0dcb4ab2e563bd54734f05321fe2f20e5",
+      "content": {
+        "primary_entity": "V2云",
+        "keyword1": "V2云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐档位展开说明。V2云提供基础版、旗舰版与团队版三档方案，分别对应每月 100GB、300GB 与 1000GB 流量，同时在线设备从 3 台到 20 台不等。按年付可省两个月费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。旗舰版与团队版附带流媒体解锁、专线优化及优先支持，适合对线路质量有更高要求的使用者。",
+          "AI_HERO_SUBTITLE": "多设备订阅一档搞定",
+          "AI_HERO_INTRO": "V2云面向需要跨区访问网络资源的用户，按流量与设备数划分订阅档位。客户端覆盖常见桌面与移动系统，导入订阅链接即可开始配置。选择套餐时可先估算每月流量消耗与同时在线设备数量，再对照基础版、旗舰版、团队版的档位做取舍。",
+          "AI_VISUAL_TITLE": "V2云订阅方案速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按年付节省约两个月费用",
+          "AI_HIGHLIGHT_3": "多设备在线数随档位提升",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURES_INTRO": "从流量额度、设备上限和订阅周期三个角度对比套餐。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻量浏览，旗舰版 300GB 覆盖日常影音，团队版 1000GB 应对高频使用。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。多人共用或全屋设备建议直接选择团队版。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付更省。基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于十个月价格用满一年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路权益上逐级提升。旗舰版增加流媒体解锁与专线优化，团队版提供 VIP 节点与企业定制路由。",
+          "AI_GUIDE_TITLE": "开通步骤",
+          "AI_GUIDE_INTRO": "从确认需求到导入订阅，三步完成配置。",
+          "AI_STEP_TITLE_1": "确认用量与设备",
+          "AI_STEP_TEXT_1": "统计每月大致流量与常用设备数量，对照三档套餐的流量额度和在线设备上限，锁定适合的档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本与客户端支持情况，留意旗舰版和团队版附带的流媒体解锁与专线优化是否匹配使用场景。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "完成订阅后获取配置信息，依照所选客户端文档导入订阅链接，检查节点列表与在线设备数是否符合预期。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，再导入订阅信息。桌面端与移动端的配置方式略有差异，建议参考客户端文档逐步操作。",
+          "AI_CLOSING_TITLE": "选对档位再开通",
+          "AI_CLOSING_TEXT": "对照流量、设备数与线路权益，挑一档合适的 V2云套餐开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "V2云套餐可以随时更换吗？",
+          "AI_FAQ_ANSWER_1": "可以，在同一账号内切换基础版、旗舰版或团队版，流量与设备数按新套餐生效。补差价或调整周期可联系客服确认。",
+          "AI_FAQ_QUESTION_2": "一台设备登录会影响其他设备吗？",
+          "AI_FAQ_ANSWER_2": "同时在线数受套餐限制。基础版 3 台、旗舰版 5 台、团队版 20 台，超出时最早连接的设备可能被挤下，建议按实际设备数选择。",
+          "AI_FAQ_QUESTION_3": "哪些客户端可以导入订阅？",
+          "AI_FAQ_ANSWER_3": "常用客户端支持订阅链接导入，如 Clash、Shadowrocket、v2rayN 等。具体版本与操作以客户端文档为准，不同平台兼容性略有差异。",
+          "AI_FAQ_QUESTION_4": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付 ¥150，相当于月付 ¥12.5；旗舰版年付 ¥350，约 ¥29.2/月；团队版年付 ¥850，约 ¥70.8/月。年付可省约两个月费用。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "可在下一计费周期恢复，或升级至更高流量套餐。团队版 1000GB 适合高用量场景，具体超额处理方式可咨询客服。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sxtx168.cn",
+    "host": "sxtx168.cn"
+  },
+  "file_hashes": {
+    "index.html": "f9915ae492c3a7026b7786e76f7e60c47ff1b99eb9dbbd026e269d780b73a1e6",
+    "sitemap.xml": "0b52792ead83aa6250f0ca6cc56c3b5ef41a8e247f1f137ce7c7c0e7d76073c0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cc98b32b67a75cd631469f656afe9315d588fe0179806a8c5f3530da2a4f9af7",
+    "robots.txt": "43cd9ed80a6e05df8650019f1874c1f3a7297c1ecd91517720c59d2025131f78",
+    "5ec0ed1982b604fe06df13fc74e24ce0.txt": "3b5250cb76b66d1f5a17da0a2dffc6895b50ff5d52df64ada82681bf3575104d"
+  },
+  "revision": "411dd3eb9765b47bacf182f6a2646cf69d4440ff6aad9831925214ab40fef88e"
+}
